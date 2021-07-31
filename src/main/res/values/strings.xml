@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Attendance</string>
+    <string name="title_activity_splash_screen" />
+    <string name="todo">TODO</string>
+</resources>
